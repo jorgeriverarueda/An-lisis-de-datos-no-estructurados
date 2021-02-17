@@ -1,1 +1,1 @@
-En esta carpeta se encuentra todo lo necesario
+En esta carpeta se encuentran todos los ficheros necesarios para ejecutar la práctica correctamente.
